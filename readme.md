@@ -9,13 +9,13 @@ Twitter @ikimiti4408
 中学２年生から始める
 
 ### よく使う言語
-- HTML・CSS・JavaScript
+- HTML・CSS・JavaScript  
 Github Pagesであげるような成果物はこれで制作しています
 
-- C++　　
+- C++  
 競技プログラミングで主に使用しています
 
-- Python
+- Python  
 機械学習・データ分析の学習で使用中
 
 ### 使ったことはある言語
